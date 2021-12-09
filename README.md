@@ -12,6 +12,7 @@ installed
          <li>cmake ..</li>
           <li>sudo apt-get install libsdl2-dev</li>
            <li>make</li>
+            <li>"C"-Continue:https://github.com/CryptoXSS/keyboard</li>
           </ol> 
 [  3%] Building CXX object CMakeFiles/Core.dir/common.cpp.o
 
