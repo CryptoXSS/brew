@@ -42,3 +42,64 @@ installed
 [ 36%] Built target Gui
 
 [ 39%] Building CXX object CMakeFiles/keytap2-gui.dir/keytap2-gui.cpp.o
+
+[ 42%] Building CXX object CMakeFiles/keytap2-gui.dir/subbreak2.cpp.o
+
+[ 45%] Linking CXX executable keytap2-gui
+
+[ 45%] Built target keytap2-gui
+
+[ 48%] Building CXX object CMakeFiles/keytap-gui.dir/keytap-gui.cpp.o
+
+[ 51%] Linking CXX executable keytap-gui
+
+[ 51%] Built target keytap-gui
+
+[ 54%] Building CXX object CMakeFiles/view-full-gui.dir/view-full-gui.cpp.o
+
+[ 57%] Linking CXX executable view-full-gui
+
+[ 57%] Built target view-full-gui
+
+[ 60%] Building CXX object CMakeFiles/keytap.dir/keytap.cpp.o
+
+[ 63%] Linking CXX executable keytap
+
+[ 63%] Built target keytap
+
+[ 66%] Building CXX object CMakeFiles/keytap2.dir/keytap2.cpp.o
+
+[ 69%] Linking CXX executable keytap2
+
+[ 69%] Built target keytap2
+
+[ 72%] Building CXX object CMakeFiles/play.dir/play.cpp.o
+
+[ 75%] Linking CXX executable play
+
+[ 75%] Built target play
+
+[ 78%] Building CXX object CMakeFiles/play-full.dir/play-full.cpp.o
+
+[ 81%] Linking CXX executable play-full
+
+[ 81%] Built target play-full
+
+[ 84%] Building CXX object CMakeFiles/record.dir/record.cpp.o
+
+[ 87%] Linking CXX executable record
+
+[ 87%] Built target record
+
+[ 90%] Building CXX object CMakeFiles/record-full.dir/record-full.cpp.o
+
+[ 93%] Linking CXX executable record-full
+
+[ 93%] Built target record-full
+
+[ 96%] Building CXX object CMakeFiles/view-gui.dir/view-gui.cpp.o
+
+[100%] Linking CXX executable view-gui
+
+[100%] Built target view-gui
+----------------------------------------------------
