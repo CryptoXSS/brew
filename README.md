@@ -1,4 +1,4 @@
-# brew
+# brew-cmake
 --
 installed
 --
