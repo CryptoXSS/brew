@@ -17,6 +17,7 @@ installed
             <li>"C"-Continue:https://github.com/CryptoXSS/keyboard</li>
           </ol> 
           https://www.digitalocean.com/community/tutorials/how-to-install-and-use-homebrew-on-linux
+          
 [  3%] Building CXX object CMakeFiles/Core.dir/common.cpp.o
 
 [  6%] Building CXX object CMakeFiles/Core.dir/audio_logger.cpp.o
