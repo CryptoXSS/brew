@@ -5,7 +5,8 @@ installed
 <ol>
   <li>sudo apt-get install libuv1-dev</li>
   <li>sudo apt install build-essential</li>
-    <li>curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh</li>
+   <li>curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh</li>
+    <li>/bin/bash install.sh</li>li>
      <li>echo 'eval"$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/crypto/.profile</li>
       <li>eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"</li>
        <li>brew install cmake</li>
